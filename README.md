@@ -1,3 +1,4 @@
-# arbolbinariob
-insert de un arbolbinario de busqueda
-Yesus Rudy Espinoza 201020621 edd B
+Yesus Rudy Espinoza Pivaral
+201020621
+EDD seccion B
+Tarea 4
